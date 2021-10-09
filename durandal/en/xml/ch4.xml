@@ -428,7 +428,7 @@
             <speak chara="_Manfred">.....</speak>
             <show chara="manfredQuestionClose" position="left" opacity="0.8"/>
             <show chara="biankaAngryClose" position="right"/>
-            <speak chara="_Bianka">Be more 「positive」 and look forward, soldier-san.</speak>
+            <speak chara="_Bianka">Be more 「positive」 and look forward, soldier.</speak>
             <show chara="biankaSeriousClose" position="right"/>
             <speak chara="_Bianka">Think deeply about how you can make come true the dreams of your comrades in this world.</speak>
             <goto goto="250" clockwise="1"/>
