@@ -9,7 +9,7 @@
         <scene id="10" background="alexandriaPalace.jpg">
             <bgm src="01_18_tango.mp3" status="start"></bgm>
             <show chara="neithLaughFar" position="center"/>
-            <speak chara="_Neith">President-san, I'm coming in!</speak>
+            <speak chara="_Neith">President, I'm coming in!</speak>
             <hide position="center"></hide>
             <show chara="shelleyBoredFar" position="left"/>
             <speak chara="_ShelleyCareer">And you were...?</speak>
@@ -366,7 +366,7 @@
             <speak chara="_Thales">How you dare to blame me, you simpleton!</speak>
             <show chara="thalesAngryClose" position="left" opacity="0.8"/>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">Hahaha. Think about it like this, Director-san. That brain of yours may come in handy in this operation.</speak>
+            <speak chara="_Champollion">Hahaha. Think about it like this, Director. That brain of yours may come in handy in this operation.</speak>
             <speak chara="_Champollion">But first...</speak>
             <show chara="neithSmileClose" position="left" opacity="0.8"/>
             <speak chara="_Champollion">Well done, Neith! Tomorrow I'm buying you a Mille-feuille from 「Golden House」!</speak>
@@ -393,9 +393,9 @@
             <show chara="AliceSmileClose" position="center"/>
             <speak chara="_Alice">When Alice was starting to panic she heard a voice coming from the speaker. 「Dear Alice, do not worry. I am Nyter Elmont, the conductor of this train. Let us have a wonderful trip together.」</speak>
             <show chara="AliceShyClose" position="center"/>
-            <speak chara="_Alice">Alice was very surprised. She got closer to the speaker and asked, 「Where are you, Conductor-san? I searched every corner of the train but I couldn't find you!」</speak>
+            <speak chara="_Alice">Alice was very surprised. She got closer to the speaker and asked, 「Where are you, Conductor? I searched every corner of the train but I couldn't find you!」</speak>
             <show chara="AliceSmileClose" position="center"/>
-            <speak chara="_Alice">Nyter laughed and replied 「Of course. You are inside me, Alice-san.」</speak>
+            <speak chara="_Alice">Nyter laughed and replied 「Of course. You are inside me, Alice.」</speak>
             <show chara="AliceShyClose" position="center"/>
             <speak chara="_Alice">Alice was even more surprised. 「Are you... the train itself?」</speak>
             <show chara="AliceSmileClose" position="center"/>
@@ -462,7 +462,7 @@
             <speak chara="_Shelley">I wish you would had pointed out the vulnerabilities in our robot's system in a less roundabout way.</speak>
             <show chara="shelleySmileClose" position="right" opacity="0.8"/>
             <show chara="schroCalmClose" position="left"/>
-            <speak chara="_Schrodinger">...But President-san, had I done that you would had called me a 「hacker」 and apprehend me.</speak>
+            <speak chara="_Schrodinger">...But President, had I done that you would had called me a 「hacker」 and apprehend me.</speak>
             <show chara="schroSmileClose" position="left"/>
             <speak chara="_Schrodinger">Because 「I know too much」, even though I came from beyond the abyss.</speak>
             <show chara="schroSeriousClose" position="left"/>
@@ -485,7 +485,7 @@
         </scene>
         <scene id="120" background="CG8-2.jpg">
             <bgm src="01_18_horror.mp3" status="start"></bgm>
-            <speak chara="_AliceGreen">Jimmy-san... I'm so sorry... I can only talk you through this screen now.</speak>
+            <speak chara="_AliceGreen">Jimmy... I'm so sorry... I can only talk you through this screen now.</speak>
             <speak chara="_AliceGreen">The location of the connector is unknown so there is no way to destroy the communication station from the outside.</speak>
             <speak chara="_AliceGreen">But... thank you very much... for returning my unresponsive body to its sleeping pod.</speak>
             <speak chara="_AliceGreen">The situation in the outside world might be chaotic right now, but——</speak>
@@ -513,7 +513,7 @@
             <speak chara="_AliceGreen">To them, this 「Alice」 personality must have been nothing but a decoration to the 「Alice」 interface, as if they were playing with a doll.</speak>
             <speak chara="_AliceGreen">Because 「I」 am completely unnecessary—— For what 「I」 was truly made for.</speak>
             <speak chara="_AliceGreen">.....</speak>
-            <speak chara="_AliceGreen">I wonder if all humans use their own children this way, Jimmy-san.</speak>
+            <speak chara="_AliceGreen">I wonder if all humans use their own children this way, Jimmy.</speak>
             <end post="U2FsdGVkX1+1vGdM9rblXGYOSlxi"/>
         </scene>
     </story>
