@@ -79,7 +79,7 @@
             <show chara="thorSmileClose" position="center"/>
             <speak chara="_Thoreau">But of course, that changed now. Fate has brought you to the Republic.</speak>
             <show chara="thorConfidentClose" position="center"/>
-            <speak chara="_Thoreau">Now you know what we want you to do.</speak>
+            <speak chara="_Thoreau">Now the preface is over. To be precise, there is a role we want you to take--</speak>
             <goto goto="30" clockwise="1"/>
         </scene>
         <scene id="30" background="palaceMeetingQuito.jpg">
