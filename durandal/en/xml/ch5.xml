@@ -41,7 +41,7 @@
             <speak chara="_Bianka">Us Valkyries are trained in a way our life rhythm will not disrupt those around us!</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Is that so? Quite different from what Rita-san told me.</speak>
+            <speak chara="_Shakespeare">Is that so? Quite different from what Rita told me.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaProudClose" position="right"/>
             <speak chara="_Bianka">...</speak>
@@ -290,7 +290,7 @@
             <speak chara="_Bianka">What came here? Please be clear——</speak>
             <show chara="biankaAngryClose" position="right" opacity="0.8"/>
             <show chara="mailboxFar" position="left"/>
-            <speak chara="_mechineRed">Welcome to Alexandria—— James Watt-san and unnamed young lady.</speak>
+            <speak chara="_mechineRed">Welcome to Alexandria—— James Watt and unnamed young lady.</speak>
             <show chara="mailboxFar" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
@@ -551,7 +551,7 @@
             <show chara="biancaShyClose" position="right"/>
             <speak chara="_Bianka">A-Apologies, I lost my composure. Please forget I mentioned any rank.</speak>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Cough. Now I see, Thales-san, you didn't approach us because you were in need of money.</speak>
+            <speak chara="_Bianka">Cough. Now I see, Thales, you didn't approach us because you were in need of money.</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="thalesLaughClose" position="left"/>
             <speak chara="_Thales">Now you get it! I wanted to talk with you because you seemed interesting!</speak>
@@ -640,7 +640,7 @@
             <show chara="biankaShoutClose" position="right"/>
             <speak chara="_Bianka">P-Please don't treat me like a child! I must let you know I'm a great Valkyrie!</speak>
             <show chara="biankaChayaoClose" position="right"/>
-            <speak chara="_Bianka">A-And you don't look too much like an adult yourself, shorty Director-san.</speak>
+            <speak chara="_Bianka">A-And you don't look too much like an adult yourself, shorty Director.</speak>
             <show chara="biankaChayaoClose" position="right" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="left"/>
             <speak chara="_Thales">Yes yes, I got it——</speak>
