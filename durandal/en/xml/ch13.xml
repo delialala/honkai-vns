@@ -38,7 +38,7 @@
             <speak chara="_Bianka">I can speak these four—— English, German, Russian and French.</speak>
             <show chara="biankaDressSneerClose" position="right" opacity="0.8"/>
             <show chara="shakesCasualNormalClose" position="left"/>
-            <speak chara="_Shakespeare">And Rita-san?</speak>
+            <speak chara="_Shakespeare">And Rita?</speak>
             <show chara="shakesCasualNormalClose" position="left" opacity="0.8"/>
             <show chara="ritaVestSquintClose" position="right"/>
             <speak chara="_Rita">...It's not my intention to brag, but I can speak more than a dozen of major languages. However, I'm not sure how useful they will be here in the 「New World」.</speak>
@@ -119,9 +119,9 @@
             <speak chara="_Miguel">Sorry, can't think of any.</speak>
             <show chara="cervantesSailorLaughClose" position="left" opacity="0.8"/>
             <show chara="shakesCasualEmbarrassedClose" position="right"/>
-            <speak chara="_Shakespeare">What to do... Lalla and Schrodinger-san are staying behind on the ship...</speak>
+            <speak chara="_Shakespeare">What to do... Lalla and Schrodinger are staying behind on the ship...</speak>
             <show chara="shakesCasualConfidentClose" position="right"/>
-            <speak chara="_Shakespeare">Ah, I know. Champollion-san, since you're an archaeologist, did you happen to learn any language of the New World in one of your adventures?</speak>
+            <speak chara="_Shakespeare">Ah, I know. Champollion, since you're an archaeologist, did you happen to learn any language of the New World in one of your adventures?</speak>
             <show chara="shakesCasualConfidentClose" position="right" opacity="0.8"/>
             <show chara="champoSweatyClose" position="left"/>
             <speak chara="_Champollion">...Sorry, I only know the Coptic language of Egypt.</speak>
@@ -413,7 +413,7 @@
             <speak chara="_Bianka">I-I just wasn't prepared and the spiciness caught me by surprise... This is not a problem at all!</speak>
             <speak chara="_Shakespeare">I wonder about that~ Judging from your tongue I'd say you're avoiding the peppers as much as you can~</speak>
             <speak chara="_Bianka">S-Shut up, you dumb Captain! I'm not doing anything like that!</speak>
-            <speak chara="_Shakespeare">...Is that so? Then I'll tell Tazumal-san to make the next round extra spicy.</speak>
+            <speak chara="_Shakespeare">...Is that so? Then I'll tell Tazumal to make the next round extra spicy.</speak>
             <speak chara="_Bianka">W-Wa——Wait!</speak>
             <goto goto="140" clockwise="1"/>
         </scene>
@@ -442,7 +442,7 @@
             <show chara="champoNormalClose-up" position="left"/>
             <speak chara="_Champollion">Basically, what we call 「new decade」... Or more accurately, our 「millennium year」.</speak>
             <show chara="champoSmileClose-up" position="left"/>
-            <speak chara="_Champollion">Eikenal-san, you said the festival lasts for 10 days—— Does each one of the 10 days have a particular religious meaning?</speak>
+            <speak chara="_Champollion">Eikenal, you said the festival lasts for 10 days—— Does each one of the 10 days have a particular religious meaning?</speak>
             <show chara="champoSmileClose-up" position="left" opacity="0.8"/>
             <show chara="WitchHappyClose-up" position="right"/>
             <speak chara="_WitchTrueName">No, there isn't one.</speak>
@@ -502,7 +502,7 @@
             <show chara="shakesCasualConfidentClose-up" position="right"/>
             <speak chara="_Shakespeare">「Humanism」 is a society that lets people live as they please as much as possible.</speak>
             <show chara="shakesCasualNormalClose-up" position="right"/>
-            <speak chara="_Shakespeare">If there were a priest like Eikenal-san in that kind of society, they wouldn't force everyone else to have the same beliefs and values as them.</speak>
+            <speak chara="_Shakespeare">If there were a priest like Eikenal in that kind of society, they wouldn't force everyone else to have the same beliefs and values as them.</speak>
             <show chara="shakesCasualNormalClose-up" position="right" opacity="0.8"/>
             <show chara="WitchShockClose-up" position="left"/>
             <speak chara="_WitchTrueName">I see.</speak>
@@ -618,7 +618,7 @@
             <speak chara="_Bianka">U-Unbelievable!</speak>
             <show chara="biankaDressScreamClose-up" position="left" opacity="0.8"/>
             <show chara="WitchShyClose-up" position="right"/>
-            <speak chara="_WitchTrueName">...I know what you want to say, Bianka-san.</speak>
+            <speak chara="_WitchTrueName">...I know what you want to say, Bianka.</speak>
             <show chara="WitchSadClose-up" position="right"/>
             <speak chara="_WitchTrueName">That's why the Federation calls us barbaric and savage.</speak>
             <show chara="WitchSadClose-up" position="right" opacity="0.8"/>
@@ -810,7 +810,7 @@
             <text>The surroundings were serene. Neither music or the sound of wooden shoes hitting the ground could be heard anymore.</text>
             <text>Beyond the candle lights, Bianka arrived at a red curtain with a pattern of black totem-like symbols.</text>
             <show chara="biankaDressDarkClose" position="center"/>
-            <speak chara="_Bianka">...Eikenal? Soy Bianka. Ya estoy aqui. (...Eikenal-san? It's Bianka. I'm coming in.)</speak>
+            <speak chara="_Bianka">...Eikenal? Soy Bianka. Ya estoy aqui. (...Eikenal? It's Bianka. I'm coming in.)</speak>
             <hide position="center"></hide>
             <text>——Those were some of the few words of Spanish she learned during the evening.</text>
             <text>However, no one answered her call.</text>
