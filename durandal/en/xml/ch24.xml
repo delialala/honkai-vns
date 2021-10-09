@@ -301,7 +301,7 @@
             <speak chara="_Bianka">--Do you remember how you explained finding “Durindana” when we first met?</speak>
             <show chara="biankaDressSneerClose" position="left" opacity="0.8"/>
             <show chara="shakesCasualEmbarrassedClose" position="right"/>
-            <speak chara="_Shakespeare">“I picked it up”?</speak>
+            <speak chara="_Shakespeare">“I stumbled upon it”?</speak>
             <show chara="shakesCasualEmbarrassedClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSneerClose" position="left"/>
             <speak chara="_Bianka">Yes that’s it! “Picked up” sounds so ridiculous now that--</speak>
