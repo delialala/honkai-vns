@@ -217,7 +217,7 @@
             <speak chara="_bertrand">...Then, explain yourself!</speak>
             <show chara="BertrandAnger" position="center" opacity="0.8"/>
             <show chara="champoNormalClose" position="center"/>
-            <speak chara="_Champollion">Bertrand-san, this is what we call a 「one sided argument」.</speak>
+            <speak chara="_Champollion">Bertrand, this is what we call a 「one sided argument」.</speak>
             <show chara="champoColdClose" position="center"/>
             <speak chara="_Champollion">We have no way to confirm the veracity of your information about 「Napoleon Bonaparte」 in case you are remembering something wrong.</speak>
             <show chara="champoSweatyClose" position="center"/>
@@ -325,9 +325,9 @@
             <speak chara="_Rita">Which can freely manipulate the direction of particles in a convenient way to violate the laws of thermodynamics.</speak>
             <show chara="ritaVestSquintClose" position="left" opacity="0.8"/>
             <show chara="durandalOutstretchOpen" position="right"/>
-            <speak chara="_SwordDurandalQ">100 points to Rita-san! The 「Gem of Domination」 can let its user freely manipulate all kinds of energy!</speak>
+            <speak chara="_SwordDurandalQ">100 points to Rita! The 「Gem of Domination」 can let its user freely manipulate all kinds of energy!</speak>
             <show chara="durandalClose" position="right"/>
-            <speak chara="_SwordDurandalQ">I gotta thank you, Dragon-san. I've been looking for it!</speak>
+            <speak chara="_SwordDurandalQ">I gotta thank you, Dragon. I've been looking for it!</speak>
             <show chara="durandalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
             <speak chara="_Bianka">(Du sure is polite when talking to strangers.)</speak>
@@ -343,7 +343,7 @@
             <speak chara="_Shakespeare">Cough. Back to the topic at hand.</speak>
             <bgm src="06_01_ChichenItza.mp3" status="start"></bgm>
             <show chara="shakesCasualQuestionClose" position="center"/>
-            <speak chara="_Shakespeare">Bertrand-san, why was the 「wall」 so important to the 「Emperor」?</speak>
+            <speak chara="_Shakespeare">Bertrand, why was the 「wall」 so important to the 「Emperor」?</speak>
             <show chara="shakesCasualQuestionClose" position="center"/>
             <speak chara="_Shakespeare">Was it only just to collect that strange energy? The one the 「Indian madman」 made the 「Emperor」 drink?</speak>
             <show chara="shakesCasualQuestionClose" position="center" opacity="0.8"/>
@@ -567,7 +567,7 @@
             <show chara="shakesCasualNormalClose" position="center"/>
             <speak chara="_Shakespeare">Well said, Valkyrie.</speak>
             <show chara="shakesCasualConfidentClose" position="center"/>
-            <speak chara="_Shakespeare">Dragon-san, the people of this place don't hate you. Rather, they'll worship you.</speak>
+            <speak chara="_Shakespeare">Dragon, the people of this place don't hate you. Rather, they'll worship you.</speak>
             <show chara="shakesCasualConfidentClose" position="center" opacity="0.8"/>
             <show chara="BertrandAnger" position="center"/>
             <speak chara="_bertrand">...But I betrayed my Emperor!</speak>
