@@ -92,7 +92,7 @@
             <show chara="biankaAngryClose" position="right"/>
             <speak chara="_Bianka">...Huh?</speak>
             <show chara="biankaChayaoClose" position="right"/>
-            <speak chara="_Bianka">Wait, what about Lalla-san? Shouldn't she have seniority over that position?</speak>
+            <speak chara="_Bianka">Wait, what about Lalla? Shouldn't she have seniority over that position?</speak>
             <show chara="biankaChayaoClose" position="right" opacity="0.8"/>
             <show chara="lallaSighClose" position="left"/>
             <speak chara="_Lalla">...Would you trust an archaeologist with taking care of the sails?</speak>
@@ -469,7 +469,7 @@
             <speak chara="_Bianka">Well, I suppose we can think of this as riding a high speed train.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
-            <speak chara="_IronfaceRadio">Can you hear me? This is Iron Mask, the engineer. I have a message for Bianka-san and Rita-san——</speak>
+            <speak chara="_IronfaceRadio">Can you hear me? This is Iron Mask, the engineer. I have a message for Bianka and Rita——</speak>
             <speak chara="_IronfaceRadio">Once you get to the shore please wait there.</speak>
             <speak chara="_IronfaceRadio">The Captain is going to perform a small ceremony, and she would like for you two to attend.</speak>
             <show chara="biankaSighClose" position="right"/>
