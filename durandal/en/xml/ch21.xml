@@ -285,7 +285,7 @@
             <speak chara="_Darwin">...It’s essentially different.</speak>
             <show chara="DarwinFunnyClose" position="right" opacity="0.8"/>
             <show chara="biankaDressBiteClose" position="left"/>
-            <speak chara="_Bianka"> But… in your case we can’t use “Different Bubble Universes have different starting points and different flows of time” as an excuse!</speak>
+            <speak chara="_Bianka"> But… in your case we can’t use “Different Universes have different starting points and different flows of time” as an excuse!</speak>
             <show chara="biankaDressBiteClose" position="left" opacity="0.8"/>
             <show chara="DarwinEmbarrassedClose" position="right"/>
             <speak chara="_Darwin">Because that’s not the case. And I’m not immortal like the “snake” you met.</speak>
