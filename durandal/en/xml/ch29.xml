@@ -42,7 +42,7 @@
             <text>He and his surviving subjects had just transformed from a lifeform that “consumes chemical energy” into another lifeform that “consumes Honkai Energy”.</text>
             <text>The position of emperor remains solid. The empire's military power was better than ever.</text>
             <text>After a brief dispute, the subjects of today became single-hearted, with a sincerity more enthusiastic and majestic than the previous “Era of Hymns”</text>
-            <text>Although the new subjects needed a “Wall” to gradually transform the land under their feet - But to the emperor, this slow but sure expansion brought a different kind of calmness.</text>
+            <text>Although the new subjects needed a “Wall” to gradually transform the land under their feet - To the emperor, this slow but sure expansion brought a different kind of calmness.</text>
             <goto goto="30" change="0"/>
         </scene>
         <scene id="30" background="spaceNight.jpg">
@@ -86,7 +86,7 @@
             <text>No language, no beauty. Just its existence was a symbol of truth.</text>
             <text>--This is undoubtedly the ultimate lifeform.</text>
             <text>Those who try to kill it in the cradle will only be humiliated in the face of this force.</text>
-            <text>What’s more, the opponent’s formation was too dependent on the “pipes” of this world--</text>
+            <text>What’s more, the opponent’s formation was too dependent on the “tunnels” of this world--</text>
             <text>--In the eyes of the emperor, the opponent had lost from the start.</text>
             <goto goto="70" clockwise="1"/>
         </scene>
