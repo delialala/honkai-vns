@@ -242,7 +242,7 @@
         <scene id="60" background="treeRapaNui.jpg">
             <bgm src="06_01_Tuluum.mp3" status="continue"></bgm>
             <show chara="ritaVestNormalClose" position="left"/>
-            <speak chara="_Rita">I heard Caravaggio-sama is a “Star Whisperer” specialized in guarding the “Gem of Prosperity”... Does that mean the jewel is now dangerous?</speak>
+            <speak chara="_Rita">I heard Caravaggio-sama is a “Star Whisperer” specialized in guarding the “Gem of Prosperity”... Does that mean the gem is now dangerous?</speak>
             <show chara="ritaVestNormalClose" position="left" opacity="0.8"/>
             <show chara="caravaColdClose" position="right"/>
             <speak chara="_Caravaggio">Nah, it’s not dangerous.</speak>
@@ -384,7 +384,7 @@
         <scene id="80" background="moaiRapaNui.jpg">
             <bgm src="12_14_fadeAway.mp3" status="start"></bgm>
             <text>There was no trace of wind on the mountaintop’s flat ground.</text>
-            <text>But in spite of that, the vortex of Honkai energy was enough to make everyone feel suffocated--</text>
+            <text>But in spite of that, the vortex of Honkai Energy was enough to make everyone feel suffocated--</text>
             <goto goto="90" change="0"/>
         </scene>
         <scene id="90" background="CG24-1.jpg">
