@@ -197,7 +197,7 @@
             <speak chara="_Bianka">She let Rita stay but I can't? Unbelievable.</speak>
             <show chara="biankaAngryClose" position="right" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="left"/>
-            <speak chara="_Miguel">Well, Rita-san is a witness. All that stuff about citizens and non-citizens doesn't matter when it comes to that.</speak>
+            <speak chara="_Miguel">Well, Rita is a witness. All that stuff about citizens and non-citizens doesn't matter when it comes to that.</speak>
             <show chara="cervantesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
             <speak chara="_Bianka">...Yes, I know. Just wanted to complain a little.</speak>
@@ -247,7 +247,7 @@
             <show chara="wattRelievedClose" position="left"/>
             <speak chara="_Watt">——A-Alice, you don't have to take what Bianka says so seriously.</speak>
             <show chara="wattInspiredClose" position="left"/>
-            <speak chara="_Watt">Unlike Rita-san, she likes to joke.</speak>
+            <speak chara="_Watt">Unlike Rita, she likes to joke.</speak>
             <show chara="biankaSighClose" position="left" opacity="0.8"/>
             <show chara="wattRelievedClose" position="right"/>
             <speak chara="_Watt">——Y-You were joking, right?</speak>
@@ -277,7 +277,7 @@
             <show chara="wattSighClose" position="left"/>
             <speak chara="_Watt">I can't let anyone else be in charge of 「Alice's surveillance」, s-so I made the necessary arrangements before the trial.</speak>
             <show chara="wattRelievedClose" position="left"/>
-            <speak chara="_Watt">Manfred-san will look for a way to repair his plane. Alice and me should be able to help him with that.</speak>
+            <speak chara="_Watt">Manfred will look for a way to repair his plane. Alice and me should be able to help him with that.</speak>
             <show chara="wattRelievedClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
             <speak chara="_Bianka">Feels like someone has been pulling strings in the background.</speak>
