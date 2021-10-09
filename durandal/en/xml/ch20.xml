@@ -324,7 +324,7 @@
             <show chara="schroSmileClose" position="left"/>
             <speak chara="_Schrodinger">The closest words in our language make for a very poetic name——</speak>
             <show chara="schroMemoryClose" position="left"/>
-            <speak chara="_Schrodinger">——The「Selene」.</speak>
+            <speak chara="_Schrodinger">——The "Moonlight throne",「Selene」.</speak>
             <show chara="schroMemoryClose" position="left" opacity="0.8"/>
             <show chara="ritaVestNormalClose" position="right"/>
             <speak chara="_Rita">...!</speak>
