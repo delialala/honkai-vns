@@ -18,7 +18,7 @@
             <speak chara="_Rita">How do I put it, once she decides on something, she won’t easily change her thinking and methods.</speak>
             <speak chara="_Rita">Many people in the world claim they can do the same, but...</speak>
             <speak chara="_Rita">...But the truth is they have long changed their opinions.</speak>
-            <speak chara="_Rita">Because of that, I think that if Miss Bianka is properly cultivated, she will surely become a backbone of Shicksal in the future.</speak>
+            <speak chara="_Rita">Because of that, I think that if Miss Bianka is properly cultivated, she will surely become a backbone of Schicksal in the future.</speak>
             <show chara="ottoSuitsFun" position="back"/>
             <speak chara="_OttoPapa">...But this Otto isn’t a leader suitable for that, right?</speak>
             <speak chara="_Rita">Overseer, I didn’t know you could joke.</speak>
@@ -45,9 +45,9 @@
             <text>Eleanor, Octavia, Reanna, Theresa.</text>
             <text>One rejected the title of S-Rank Valkyrie and left headquarters.</text>
             <text>Another was unfortunate, she turned into a Honkai Beast in a radical experiment and had to be killed by her companion on the spot.</text>
-            <text>There was even one who betrayed the mandate of Shicksal and had her records erased after death.</text>
+            <text>There was even one who betrayed the mandate of Schicksal and had her records erased after death.</text>
             <text>And the last one… wasn’t even a Valkyrie.</text>
-            <text>It’s almost like when you enter Shicksal… Once you grow to the point you can help save the world by yourself, you will almost certainly have some kind of conflict with the organization itself.</text>
+            <text>It’s almost like when you enter Schicksal… Once you grow to the point you can help save the world by yourself, you will almost certainly have some kind of conflict with the organization itself.</text>
             <text>The Overseer… What does he really want me to do…</text>
             <goto goto="30" change="#ffffff"/>
         </scene>
@@ -143,7 +143,7 @@
         <scene id="60" background="submarineDoctorRoom.jpg">
             <bgm src="theme.mp3" status="start"></bgm>
             <text>It seemed like I had a long dream.</text>
-            <text>It was broken,chaotic, like a revolving lantern… But I couldn’t remember the details.</text>
+            <text>It was broken, chaotic, like a revolving lantern… But I couldn’t remember the details.</text>
             <text>The sun shined into the room through the porthole - This is probably the infirmary, and the crew is probably taking a lunch break.</text>
             <text>Yes, it seems like my attempt was successful. That’s why we’re going back leisurely.</text>
             <text>If anything had to be said to be off…</text>
@@ -227,7 +227,7 @@
             <show chara="biankaDressSighClose" position="right"/>
             <speak chara="_Bianka">...Of course not.</speak>
             <show chara="biankaDressSneerClose" position="right"/>
-            <speak chara="_Bianka"> Did you forget? Both Rita and I have the “Gnius”.</speak>
+            <speak chara="_Bianka"> Did you forget? Both Rita and I have the “Genius”.</speak>
             <show chara="biankaDressSmileClose" position="right"/>
             <speak chara="_Bianka">As long as the two worlds are close, we can return to our original anytime, anywhere.</speak>
             <show chara="biankaDressSneerClose" position="right"/>
