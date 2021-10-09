@@ -169,7 +169,7 @@
             <show chara="shakesCasualEmbarrassedClose" position="right"/>
             <speak chara="_Shakespeare">In fact, had I not met with Dr. Schrodinger, I wouldn’t even have known the fact that “Finding the Gem of Courage equals a 99% chance of success”.</speak>
             <show chara="shakesCasualConfidentClose" position="right"/>
-            <speak chara="_Shakespeare">If it weren’t for her… I’d just be searching for them like a drunk fly…. We wouldn’t even be standing side-by-side right now.</speak>
+            <speak chara="_Shakespeare">If it weren’t for her… I’d just be searching for them like a drunk fly…. You and I wouldn’t even be standing side-by-side right now.</speak>
             <show chara="shakesCasualLaughClose" position="right"/>
             <speak chara="_Shakespeare">And of course, life is full of coincidences. When we finally found the “Gem of Courage” and the next stage of the long sword hunt was about to start - We happened to meet you.</speak>
             <show chara="shakesCasualConfidentClose" position="right"/>
@@ -222,7 +222,7 @@
             <show chara="thorNormalClose" position="left"/>
             <speak chara="_Thoreau">But… “Don't do to others what you wouldn't want them to do to you” is also my consistent style of doing things.</speak>
             <show chara="thorConfidentClose" position="left"/>
-            <speak chara="_Thoreau">I always believed that the “Old people” don’t have any important advice that needs to be given to the young people.</speak>
+            <speak chara="_Thoreau">I always believed that the “old people” don’t have any important advice that needs to be given to the young people.</speak>
             <show chara="thorSighClose" position="left"/>
             <speak chara="_Thoreau">The vast majority of “old people” just carry a variety of fragmented experiences-</speak>
             <show chara="thorNormalClose" position="left"/>
@@ -309,7 +309,7 @@
             <bgm src="01_04_Miracle.mp3" status="start"></bgm>
             <text>The energy was released in an instant, the Valkyrie and the Holy Sword becoming a hurricane of light.</text>
             <text>The roots of space, like the thorns of the Sleeping Beauty, were mercilessly cut off by the fire.</text>
-            <text>At the core of the Anchor Point, the spaces of different dimensions were originally intertwined in a disorderly manner, like tangles weeds-</text>
+            <text>At the core of the Anchor Point, the spaces of different dimensions were originally intertwined in a disorderly manner, like tangled weeds-</text>
             <text>However, wherever the Holy Sword burned, the world’s surface became as smooth as a mirror.</text>
             <goto goto="100" change="0"/>
         </scene>
