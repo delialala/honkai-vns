@@ -93,7 +93,7 @@
             <show chara="wattShyClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
-            <speak chara="_Bianka">So you came all the way here to apologize, captain-san?</speak>
+            <speak chara="_Bianka">So you came all the way here to apologize, captain?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="left"/>
             <speak chara="_WattNoName">Ah—— I'm not the captain.</speak>
@@ -430,7 +430,7 @@
             <show chara="shakesSmileClose" position="right"/>
             <speak chara="_Shakespeare">...Then, let's do the following.</speak>
             <show chara="shakesConfidentClose" position="right"/>
-            <speak chara="_Shakespeare">Bianka-san and me, Rita-san and 「Iron Mask」——</speak>
+            <speak chara="_Shakespeare">Bianka and me, Rita and 「Iron Mask」——</speak>
             <speak chara="_Shakespeare">——Each one will fight its respective opponent. Any objections?</speak>
             <goto goto="120" clockwise="1"/>
         </scene>
