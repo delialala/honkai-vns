@@ -11,7 +11,7 @@
             <text>As he despaired, Jimmy Watt began to remember what happened moments before he lost consciousness.</text>
             <text>I was in the Great Library when I passed out... Next thing I knew I was already inside this prison cell.</text>
             <text>The door is locked and no one is answering to my screams.</text>
-            <text>Bianka-san... Captain Shakespeare... Director Thales...</text>
+            <text>Bianka... Captain Shakespeare... Director Thales...</text>
             <text>I can only fantasize about someone coming to my rescue.</text>
             <sound src="02_03_highheels.mp3"/>
             <text>...Are those footsteps?</text>
@@ -672,7 +672,7 @@
             <speak chara="_Watt">You're getting better at this, Alice!</speak>
             <show chara="wattRelievedClose" position="left" opacity="0.8"/>
             <show chara="AliceShyClose" position="right"/>
-            <speak chara="_Alice">It wasn't much. More importantly, Jimmy-sama——Ah, no, Jimmy-san... Aren't you pushing yourself too hard?</speak>
+            <speak chara="_Alice">It wasn't much. More importantly, Jimmy-sama——Ah, no, Jimmy... Aren't you pushing yourself too hard?</speak>
             <show chara="AliceShyClose" position="right" opacity="0.8"/>
             <show chara="wattSmileClose" position="left"/>
             <speak chara="_Watt">...I-I don't know what you're talking about.</speak>
