@@ -244,7 +244,7 @@
             <speak chara="_Bianka">...?</speak>
             <show chara="biankaSeriousClose" position="left" opacity="0.8"/>
             <show chara="schroSeriousClose" position="right"/>
-            <speak chara="_Schrodinger">I theorize the 「bubble world」 we are in right now has a life span—— And that it is much shorter than the life span of a 「regular」 world.</speak>
+            <speak chara="_Schrodinger">I theorize the 「universes」 we are in right now has a life span—— And that it is much shorter than the life span of a 「regular」 world.</speak>
             <show chara="schroTalkClose" position="right"/>
             <speak chara="_Schrodinger">If that's the case, we need to hurry.</speak>
             <show chara="schroCalmClose" position="right"/>
@@ -302,7 +302,7 @@
             <speak chara="_SomeOneTalking">Ah, if the ship gets too hot I should make everyone work in swimsuits.</speak>
             <speak chara="_SomeOneTalking">...What are you saying!?</speak>
             <speak chara="_SomeOneTalking">Just so you know, I'm not taking part on that.</speak>
-            <speak chara="_SomeOneTalking">Ah, right. Schrodinger-san doesn't need to regulate her body temperature.</speak>
+            <speak chara="_SomeOneTalking">Ah, right. Schrodinger doesn't need to regulate her body temperature.</speak>
             <speak chara="_SomeOneTalking">——It's all about being stylish. A 「Valkyrie」 should be wearing pretty, cute clothes! This is the perfect opportunity, it would be such a waste otherwise.</speak>
             <speak chara="_SomeOneTalking">S-Stop saying weird things! And I think you misunderstood what Valkyries are!—— Agh! Rita! What...</speak>
             <speak chara="_SomeOneTalking">The size doesn't seem to be a problem. Next it's the skirt...</speak>
@@ -357,7 +357,7 @@
             <speak chara="_Alice">...Hehe. Understood. Please wait a moment.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
-            <speak chara="_Alice">...Jimmy-san! The Captain is calling for you!</speak>
+            <speak chara="_Alice">...Jimmy! The Captain is calling for you!</speak>
             <goto goto="170" clockwise="1"/>
         </scene>
         <scene id="170" background="deepWater.jpg">
@@ -368,7 +368,7 @@
             <text>「Paris-sama, I am Aphrodite Rossweisse. If you were to give me the golden apple, I will bestow my blessing upon you so that you may never experience unhappiness in your love life.」</text>
             <text>「Listen, you fool! The one who should have the golden apple is me, Athena Ataegina! Hand it over and I'll turn you into an invincible hero!」</text>
             <text>——A bunch of nonsense.</text>
-            <text>After all in the outside world it's March 5th 2012—— Not even in a bubble world in the Sea of Quanta the Goddesses will begin to fight out of love.</text>
+            <text>After all in the outside world it's March 5th 2012—— Not even in a universe in the Sea of Quanta the Goddesses will begin to fight out of love.</text>
             <text>...However, just as the sun rose in the horizon, the crew of the Caledonia were involved in another kind of battle.</text>
             <goto goto="180" clockwise="1"/>
         </scene>
