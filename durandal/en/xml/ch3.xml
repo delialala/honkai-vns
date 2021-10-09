@@ -117,7 +117,7 @@
             <bgm src="11_29_themeTesla.mp3" status="start"></bgm>
             <speak chara="_Bianka">Here, take this... It's a gift.</speak>
             <speak chara="_Bianka">Ummm...</speak>
-            <speak chara="_Bianka">Happy 17th birthday, adjutant-san.</speak>
+            <speak chara="_Bianka">Happy 17th birthday, adjutant.</speak>
             <speak chara="_Rita">...T-Thank you very much.</speak>
             <speak chara="_Bianka">I-I made it using a fang from the 「Leviathan」.</speak>
             <speak chara="_Bianka">...If it is too weird, feel free to throw it away. It's not worth anything.</speak>
@@ -294,7 +294,7 @@
             <show chara="lallaSeriousClose" position="left"/>
             <speak chara="_Lalla">I wonder how long will Tanger, Ceuta and Tetouan remain on the other side.</speak>
             <show chara="shakesPityClose" position="left"/>
-            <speak chara="_Shakespeare">Tetouan is Lalla-san's hometown.</speak>
+            <speak chara="_Shakespeare">Tetouan is Lalla's hometown.</speak>
             <show chara="shakesPityClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
@@ -322,7 +322,7 @@
             <speak chara="_Shakespeare">Honkai beast? What's that?</speak>
             <show chara="shakesQuestionClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">The 「monsters」 Iron Mask-san mentioned earlier.</speak>
+            <speak chara="_Bianka">The 「monsters」 Iron Mask mentioned earlier.</speak>
             <show chara="biankaHesitateClose" position="right"/>
             <speak chara="_Bianka">Do they not appear near the 「wall」?</speak>
             <show chara="biankaHesitateClose" position="right" opacity="0.8"/>
