@@ -336,7 +336,7 @@
             <show chara="shakesCasualLaughClose" position="left"/>
             <speak chara="_Shakespeare">Apologies, it seems one of my crew members is bothering you. Let me apologize in their instead.</speak>
             <show chara="shakesCasualNormalClose" position="left"/>
-            <speak chara="_Shakespeare">(I'll be counting on you to translate, Rita-san.)</speak>
+            <speak chara="_Shakespeare">(I'll be counting on you to translate, Rita.)</speak>
             <show chara="shakesCasualNormalClose" position="left" opacity="0.8"/>
             <show chara="ritaVestSquintClose" position="mostright"/>
             <speak chara="_Rita">(Leave it to me, Captain-sama.)</speak>
