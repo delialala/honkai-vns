@@ -109,7 +109,7 @@
             <show chara="shakesCasualSeriousClose" position="right"/>
             <speak chara="_Shakespeare">Looking at how they're panicking tells me they won't put up much resistance.</speak>
             <show chara="shakesCasualConfidentClose" position="right"/>
-            <speak chara="_Shakespeare">Time to act like a pirate, Valkyrie-san.</speak>
+            <speak chara="_Shakespeare">Time to act like a pirate, Valkyrie.</speak>
             <show chara="shakesCasualConfidentClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
             <speak chara="_Bianka">...?</speak>
@@ -354,7 +354,7 @@
             <show chara="shakesCasualNormalClose-up" position="left"/>
             <speak chara="_Shakespeare">Humans are fundamentally greedy creatures. I think being honest with that desire is the key to live a good life.</speak>
             <show chara="shakesCasualLaughClose-up" position="left"/>
-            <speak chara="_Shakespeare">——Don't you agree, Guide-san? It'll probably take you several years to make your own bicycle using materials from here, but even so you're willing to work hard for it, don't you?</speak>
+            <speak chara="_Shakespeare">——Don't you agree, Guide? It'll probably take you several years to make your own bicycle using materials from here, but even so you're willing to work hard for it, don't you?</speak>
             <show chara="shakesCasualLaughClose-up" position="left" opacity="0.8"/>
             <show chara="vilagerManSmileClose-up" position="right"/>
             <speak chara="_vilagerGuide">...Yes, what is it?</speak>
@@ -539,7 +539,7 @@
             <speak chara="_Shakespeare">...Does that have any relationship with the 「experiment」 you mentioned earlier?</speak>
             <show chara="shakesCasualSeriousClose" position="left" opacity="0.8"/>
             <show chara="ZarathustraSmileClose" position="right"/>
-            <speak chara="_ZarathustraDaughter">You are correct, Captain-san.</speak>
+            <speak chara="_ZarathustraDaughter">You are correct, Captain.</speak>
             <show chara="ZarathustraNormalClose" position="right"/>
             <speak chara="_ZarathustraDaughter">And, it is deeply connected to the legend of the 「Serpent King」 as well.</speak>
             <show chara="ZarathustraSmileClose" position="right"/>
