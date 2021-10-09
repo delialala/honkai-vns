@@ -18,7 +18,7 @@
             <show chara="thorAngryClose" position="right"/>
             <speak chara="_Thoreau">Early this morning, the automated routine monitoring noticed an abnormal concentration of Honkai Energy on Rapa Nui island.</speak>
             <show chara="thorAngryClose" position="right"/>
-            <speak chara="_Thoreau">And at the same time, there was an abnormal depletion of Honkai Energy in the center of the Anchor Point, where we are now - It appears to be a rare case of “Anchor capillary blockage”.</speak>
+            <speak chara="_Thoreau">And at the same time, there was an abnormal depletion of Honkai Energy in the center of the Anchor Point, where we are now - It appears to be a rare case of “Anchor Capillary Blockage”.</speak>
             <show chara="thorAngryClose" position="right" opacity="0.8"/>
             <show chara="DraculaSeriousClose" position="left"/>
             <speak chara="_Dracula">……</speak>
@@ -60,7 +60,7 @@
             <show chara="yukimuraSmileClose" position="right"/>
             <speak chara="_Yukimura">It’s precisely because I’m familiar with the structure and performance of the Defense System that I will be able to react to any sudden change and make the right decision.</speak>
             <show chara="yukimuraTalkClose" position="right"/>
-            <speak chara="_Yukimura">Besides, no one in this world has experience with Anchor Carpilary Blocking. To minimize damage you should let a Star Whisperer who is both used to Anchors and the battlefield lead this expedition.</speak>
+            <speak chara="_Yukimura">Besides, no one in this world has experience with Anchor Capillary Blockage. To minimize damage you should let a Star Whisperer who is both used to Anchors and the battlefield lead this expedition.</speak>
             <show chara="yukimuraSmileClose" position="right"/>
             <speak chara="_Yukimura">...This is also a good opportunity to repay you all for taking care of me.</speak>
             <show chara="yukimuraSmileClose" position="right" opacity="0.8"/>
@@ -85,7 +85,7 @@
             <show chara="caravaDisgustedClose" position="left"/>
             <speak chara="_Caravaggio">I don’t know. At the time, the concentration of Honkai Energy was much higher than we could ever imagine.</speak>
             <show chara="caravaFocusClose" position="left"/>
-            <speak chara="_Caravaggio">I have no idea what this gal did. By the time I realized it the concentration of Honkai Energy had been greatly reduced and the passage from capillary to Anchor point had been successfully bridged.</speak>
+            <speak chara="_Caravaggio">I have no idea what this gal did. By the time I realized it the concentration of Honkai Energy had been greatly reduced and the passage from capillary to Anchor Point had been successfully bridged.</speak>
             <show chara="caravaDisgustedClose" position="left"/>
             <speak chara="_Caravaggio">And she was frozen like this - Most of her body had already been crystallized.</speak>
             <show chara="caravaFocusClose" position="left"/>
@@ -110,7 +110,7 @@
             <show chara="caravaDisgustedClose" position="left"/>
             <speak chara="_Caravaggio">And what can we do? Although her whole body is crystalized, she is not much different from a vegetative human - She is still alive.</speak>
             <show chara="caravaSurpriseClose" position="left"/>
-            <speak chara="_Caravaggio">So if when she is touched she falls and becomes a pile of rocks, would it have been worth moving her?</speak>
+            <speak chara="_Caravaggio">So if when she is touched she falls and breaks down into a pile of rocks, would it have been worth moving her?</speak>
             <show chara="caravaSurpriseClose" position="left" opacity="0.8"/>
             <show chara="biankaDressHateClose" position="right"/>
             <speak chara="_Bianka">……</speak>
@@ -118,7 +118,7 @@
             <show chara="caravaDisgustedClose" position="left"/>
             <speak chara="_Caravaggio">But it has already been seven years… That question no longer matters. What matters now is--</speak>
             <show chara="caravaColdClose" position="left"/>
-            <speak chara="_Caravaggio">Be it you, the country or the world - Everyone is in need of the crystal this gal holds, right?</speak>
+            <speak chara="_Caravaggio">Be it you, the country or the world - Everyone is in need of the gem this gal holds, right?</speak>
             <show chara="caravaColdClose" position="left" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="right"/>
             <speak chara="_Bianka">That’s right… But--</speak>
@@ -173,13 +173,13 @@
             <show chara="schroSeriousClose" position="left"/>
             <speak chara="_Schrodinger">In theory, we could reactivate and manipulate the Honkai Energy and have it leave the Star Whisperer’s body.</speak>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">--Now that we have the Gem of Domination, that should be possible to do.</speak>
+            <speak chara="_Schrodinger">--Now that we have the Gem of Dominance, that should be possible to do.</speak>
             <show chara="schroTalkClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="right"/>
             <speak chara="_Bianka">…Then let’s get to it!</speak>
             <show chara="biankaDressShoutClose" position="right" opacity="0.8"/>
             <show chara="schroSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">However, Honkai energy can’t just disappear. Once reactivated, for everyone’s safety, we can’t allow it to wander freely.</speak>
+            <speak chara="_Schrodinger">However, Honkai Energy can’t just disappear. Once reactivated, for everyone’s safety, we can’t allow it to wander freely.</speak>
             <show chara="schroSeriousClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="right"/>
             <speak chara="_Bianka">You mean...</speak>
@@ -187,7 +187,7 @@
             <show chara="schroSeriousClose" position="left"/>
             <speak chara="_Schrodinger">Yes. Given the performance limitations of “Durandal”, our only option would be to transfer the Honkai Energy to the body of the sword’s holder.</speak>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">Therefore, if the wielder’s Honkai Resistance turns out to be lower than the “Star Whisperer” Yukimura Sanada’s - Everything she’s done would have been for nothing.</speak>
+            <speak chara="_Schrodinger">Therefore, if the wielder’s Honkai Resistance turns out to be lower than the “Star Whisperer” Sanada Yukimura’s - Everything she’s done would have been for nothing.</speak>
             <show chara="schroSeriousClose" position="left"/>
             <speak chara="_Schrodinger">I know I can’t do it. But if it’s one of you Valkyries… Well, only you know how high your Resistance is.</speak>
             <show chara="schroSeriousClose" position="left" opacity="0.8"/>
@@ -232,7 +232,7 @@
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="biankaDressSneerClose" position="center"/>
-            <speak chara="_Bianka">Let’s go, Du.</speak>
+            <speak chara="_Bianka">Let’s go, Dudu.</speak>
             <goto goto="60" change="0"/>
         </scene>
         <scene id="60" background="CG25-2.jpg">
@@ -328,9 +328,9 @@
             <show chara="ottoDrNormalClose" position="back"/>
             <speak chara="_OttoDr">Because… One day you might meet someone similar.</speak>
             <show chara="ottoDrColdClose" position="back"/>
-            <speak chara="_OttoDr">And when the time comes...</speak>
+            <speak chara="_OttoDr">When the time comes...</speak>
             <show chara="ottoDrTalkClose" position="back"/>
-            <speak chara="_OttoDr">...I pray you won't sympathize with the princess.</speak>
+            <speak chara="_OttoDr">...try not to take pity on the princess.</speak>
             <show chara="ottoDrColdClose" position="back"/>
             <speak chara="_OttoDr">She is already knee-deep in a bloody swamp - Even if she wanted to turn back it would be equally as difficult.</speak>
             <speak chara="_Bianka">Could it be that… You have someone like that around you?</speak>
