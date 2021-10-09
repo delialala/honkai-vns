@@ -16,7 +16,7 @@
                 <p class="article-text">奇洛埃岛（Isla de Chiloé，意为“海鸥之地”）是智利东南部的一座岛屿，地属南温带，气候、风光均与北欧类似。</p>
                 <p class="article-text">p.s. 据考证，奇洛埃岛为马铃薯的主要原产地之一。</p>
             </remark>
-            <text>Before the red haired captain’s submarine arrived, the chairwoman was taking a relaxed walk on the beach with her pet groundhog.</text>
+            <text>Before the red haired captain’s submarine arrived, the Chairwoman was taking a relaxed walk on the beach with her pet groundhog.</text>
             <text>At that time, most people wouldn’t yet be aware--</text>
             <text>But a plan about to change the world was about to commence in the shadows.</text>
             <goto goto="20" change="#ffffff"/>
@@ -75,20 +75,20 @@
             <speak chara="_Thoreau">--Yes, Bianka, no need to be surprised. The complete “Durandal” is a weapon capable of cutting space itself.</speak>
             <speak chara="_Thoreau">Many years ago it was theoretically proven and tried to be put in practice--</speak>
             <speak chara="_Thoreau">But sadly the experiment failed.</speak>
-            <speak chara="_Thoreau">At the time, there was no one strong enough to be the “Holy swordsman”.</speak>
+            <speak chara="_Thoreau">At the time, there was no one strong enough to be the “Holy Swordsman”.</speak>
             <goto goto="60" change="0"/>
         </scene>
         <scene id="60" background="palaceMeetingQuito.jpg">
             <bgm src="legion.mp3" status="start"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
             <show chara="thorSighClose" position="back"/>
-            <speak chara="_Thoreau">We have to admit… Not even Star Whisperers can handle the maximum output of the Holy Sword, let alone a normal human. Not even Rowland was capable of it.</speak>
+            <speak chara="_Thoreau">We have to admit… Not even Rowland was capable of it. Not even Star Whisperers can handle the maximum output of the Holy Sword, let alone a normal human.</speak>
             <show chara="thorConfidentClose" position="back"/>
             <speak chara="_Thoreau">However, you Valkyries are true warriors who fight the honkai: Your possibilities are completely different from us, Captain Shakespeare or Dr. Schrodinger.</speak>
             <show chara="thorConfidentClose" position="back"/>
             <speak chara="_Thoreau">...Bianka Ataegina, I believe you are our missing puzzle piece.</speak>
             <show chara="thorNormalClose" position="back"/>
-            <speak chara="_Thoreau">Therefore, I will tell you the whereabouts of the last jewels from “Durandal”--</speak>
+            <speak chara="_Thoreau">Therefore, I will tell you the whereabouts of the last gems from “Durandal”--</speak>
             <speak chara="_Thoreau">In addition to the two in my hand and the one in possession of Shigure Kira, the seventh gem you are looking for--</speak>
             <speak chara="_Thoreau">Is in the far away Rapa Nui Island from the South Pacific.</speak>
             <show chara="thorConfidentClose" position="back"/>
@@ -241,7 +241,7 @@
             <speak chara="_Bianka">...Are you telling me that these things don’t have any meaning?</speak>
             <show chara="biankaDressSighClose" position="left" opacity="0.8"/>
             <show chara="schroNoSwordSmileClose" position="right"/>
-            <speak chara="_Schrodinger">No, they do. But learning their meaning can't be achieved by consequentialism, that’s all.</speak>
+            <speak chara="_Schrodinger">No, they do. But learning it can't be achieved by consequentialism, that’s all.</speak>
             <show chara="schroNoSwordSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
             <speak chara="_Bianka">……</speak>
@@ -422,7 +422,7 @@
         </scene>
         <scene id="170" background="CG27-3.jpg">
             <bgm src="12_14_Hero.mp3" status="continue"></bgm>
-            <speak chara="_Bianka">You… turned out to be such a powerful weapon, Dudu!</speak>
+            <speak chara="_Bianka">You… turned out to be such a powerful weapon, Durandal!</speak>
             <speak chara="_HolySwordDurandal">It’s because I have a strong master, Miss Bianka Ataegina.</speak>
             <speak chara="_HolySwordDurandal">In your hands, I undoubtedly have the power to destroy any land on this Bubble Universe.</speak>
             <speak chara="_HolySwordDurandal">But I hope you understand: Every weapon’s function is destruction and violence. Even the so-called “Holy Sword” is no exception.</speak>
