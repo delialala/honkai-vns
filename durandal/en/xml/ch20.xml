@@ -172,12 +172,12 @@
             <show chara="rolandArmorEmbarrassClose" position="left"/>
             <speak chara="_Roland">Y-Yes.</speak>
             <show chara="rolandArmorSmileClose" position="left"/>
-            <speak chara="_Roland">Buonarroti-san is the Chief of the Republic's Technology Intelligence Agency. She makes her way into many research facilities around the world and brings their technology to your country.</speak>
+            <speak chara="_Roland">Buonarroti is the Chief of the Republic's Technology Intelligence Agency. She makes her way into many research facilities around the world and brings their technology to your country.</speak>
             <show chara="biankaDressScreamClose" position="left"/>
             <speak chara="_Bianka">...Basically, you're a spy?</speak>
             <show chara="biankaDressScreamClose" position="left" opacity="0.8"/>
             <show chara="micheDrySmileCloseE" position="right"/>
-            <speak chara="_Michel">Thank you for your praise, Ataegina-san.</speak>
+            <speak chara="_Michel">Thank you for your praise, Ataegina.</speak>
             <show chara="micheRelaxCloseE" position="right"/>
             <speak chara="_Michel">The Great Library, Alexandria's harbor, the rocket launch site at the Pyramid—— Those places are second to none in the world. I need to take advantage of them for the sake of the world.</speak>
             <show chara="micheRelaxCloseE" position="right" opacity="0.8"/>
@@ -220,7 +220,7 @@
             <speak chara="_Michel">——Also, Major General Rowland didn't come in contact with you under any orders. Treat her kindly, would you?</speak>
             <show chara="micheDrySmileCloseE" position="right" opacity="0.8"/>
             <show chara="shakesCasualLaughClose" position="left"/>
-            <speak chara="_Shakespeare">Ahahaha, as if I could be mean to a cute girl like Rowland-san!</speak>
+            <speak chara="_Shakespeare">Ahahaha, as if I could be mean to a cute girl like Rowland!</speak>
             <show chara="shakesCasualDislikeClose" position="left"/>
             <speak chara="_Shakespeare">Anyway, now that you're here might as well get you to explain a few things. What exactly is the 「Huaca Tunnel」?</speak>
             <show chara="shakesCasualConfidentClose" position="left"/>
@@ -330,7 +330,7 @@
             <speak chara="_Rita">...!</speak>
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="schroCalmClose" position="left"/>
-            <speak chara="_Schrodinger">...Judging from your reaction it seems you know about it, Rita-san. Mind telling us what you know?</speak>
+            <speak chara="_Schrodinger">...Judging from your reaction it seems you know about it, Rita. Mind telling us what you know?</speak>
             <show chara="schroCalmClose" position="left" opacity="0.8"/>
             <show chara="ritaVestHesitateClose" position="right"/>
             <speak chara="_Rita">.....</speak>
@@ -373,7 +373,7 @@
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="micheArrogantCloseE" position="right"/>
             <speak chara="_Michel">Correct. It seems that previous civilization had technology capable of making a 「microcosm」——</speak>
-            <speak chara="_Michel">According to my sources, the birth of this world was made possible thanks to an artificial expansion caused by the 「Ether Anchor」. And that is also the fundamental reason as to why this world is stuck in the state of 「bubble world」.</speak>
+            <speak chara="_Michel">According to my sources, the birth of this world was made possible thanks to an artificial expansion caused by the 「Ether Anchor」. And that is also the fundamental reason as to why this world is stuck in the state of 「universe」.</speak>
             <show chara="micheArrogantCloseE" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
             <speak chara="_Schrodinger">That crucial energy source—— Came from a prototype of similar nature to the 「Selene」?</speak>
@@ -381,12 +381,12 @@
             <show chara="micheFocusCloseE" position="right"/>
             <speak chara="_Michel">That used to be the case at first, yes.</speak>
             <!-- RENAME: Houkai -> Honkai -->
-            <speak chara="_Michel">After the 「stream」 of the 「membrane」 stabilized around the 「Ether Anchor」, it began to grow by absorbing the Honkai energy that bubble worlds nearby leaked.</speak>
+            <speak chara="_Michel">After the 「stream」 of the 「membrane」 stabilized around the 「Ether Anchor」, it began to grow by absorbing the Honkai energy that universes nearby leaked.</speak>
             <speak chara="_Michel">The pyramids, the shape of the continents, the starry night sky—— That's how all of it was 「born」.</speak>
             <show chara="micheFocusCloseE" position="right" opacity="0.8"/>
             <show chara="schroSeriousClose" position="left"/>
             <!-- RENAME: Houkai -> Honkai -->
-            <speak chara="_Schrodinger">Wait... doesn't that mean its real purpose wasn't to make 「small bubble worlds」, but rather it's a way to transform Honkai energy?</speak>
+            <speak chara="_Schrodinger">Wait... doesn't that mean its real purpose wasn't to make 「small universes」, but rather it's a way to transform Honkai energy?</speak>
             <show chara="schroTalkClose" position="left"/>
             <speak chara="_Schrodinger">Could it be its true purpose was to exist as a 「space waste treatment plant」?</speak>
             <show chara="schroTalkClose" position="left" opacity="0.8"/>
