@@ -410,7 +410,7 @@
             <show chara="rita17HesitateClose" position="left"/>
             <speak chara="_Rita">.....</speak>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_Bianka">Lalla-san, you're in charge of the cabin too, right? Can you open Jimmy's room, please?</speak>
+            <speak chara="_Bianka">Lalla, you're in charge of the cabin too, right? Can you open Jimmy's room, please?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="lallaSeriousClose" position="right"/>
             <speak chara="_Lalla">...Yes. Come with me.</speak>
