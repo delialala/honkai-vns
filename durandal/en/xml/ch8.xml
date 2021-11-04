@@ -54,18 +54,12 @@
         </scene>
         <scene id="15" background="alexandriaPalace.jpg">
             <bgm src="01_18_tango.mp3" status="continue"></bgm>
-            <show chara="shakesLaughFar" position="center"/>
-            <speak chara="_ShakespeareCareer">What a lively kid.</speak>
-            <show chara="shakesSmileFar" position="center"/>
-            <speak chara="_ShakespeareCareer">...But shouldn't the 「leader」 of this scientific city be using her trustworthy robot units instead? Care to comment, President Shelley?</speak>
-            <hide position="center"></hide>
-            <show chara="shelleyBoredFar" position="left"/>
-            <speak chara="_Shelley">...You're here, Shakespeare.</speak>
-            <show chara="shelleyColdFar" position="left"/>
-            <speak chara="_Shelley">Do you really have time for this? I heard one of your crew members was kidnapped.</speak>
-            <show chara="shelleyColdFar" position="left" opacity="0.8"/>
+
             <show chara="shakesSmileFar" position="right"/>
-            <speak chara="_Shakespeare">If the security system of this city is to be trusted—— There's nothing to be worried about.</speak>
+            <speak chara="_Shakespeare">Why so blue, Schrodinger?</speak>
+             <show chara="schroScornfulFar" position="center"/>
+            <speak chara="_Schrodinger">...</speak>
+            
             <show chara="shakesSmileFar" position="right" opacity="0.8"/>
             <show chara="shelleyColdFar" position="left"/>
             <speak chara="_Shelley">...Tch. What are you getting it?</speak>
