@@ -55,9 +55,9 @@
         <scene id="15" background="alexandriaPalace.jpg">
             <bgm src="01_18_tango.mp3" status="continue"></bgm>
 
-            <show chara="shakesSmileFar" position="right"/>
+            <show chara="shakesSmileFar" position="center"/>
             <speak chara="_Shakespeare">Why so blue, Schrodinger?</speak>
-             <show chara="schroScornfulFar" position="center"/>
+             <show chara="schroSeriousFar" position="center"/>
             <speak chara="_Schrodinger">...</speak>
             
             <show chara="shakesSmileFar" position="right" opacity="0.8"/>
