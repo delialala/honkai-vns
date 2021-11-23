@@ -3,7 +3,7 @@
     <story>
         <scene id="0" background="dashboard.jpg">
             <bgm src="morning.mp3" status="start"></bgm>
-            <text>5 in the morning.</text>
+            <text>5 in the. morning.</text>
             <text>Inside a device wider than the driver seat of a truck, a young girl strapped with a belt turns on a machine.</text>
             <text>Above the power button there is a mottled lamp. The abstract meter is surrounded by hard to read Cyrillic letters.</text>
             <bgm src="peerGynt.mp3" status="start"></bgm>
