@@ -9,10 +9,9 @@
             <bgm src="peerGynt.mp3" status="start"></bgm>
             <text>И...Н...Т...Е...Р...К...О...С...М...О...С...</text>
             <text>ИНТЕРКОСМОС (INTERKOSMOS)</text>
-            <!-- RENAME: Approximately half a century ago, the organization 「Destiny」 helped humanity send several astronauts of many different nationalities to the Moon. -->
             <text>Circa mezzo secolo fa, l'organizzazione「Schicksal」aiutò l'umanità a mandare svariati astronauti di molte nazionalità diverse sulla luna.</text>
-            <text>This machine is a relic of that glorious era.</text>
-            <speak chara="_mechanicalSound">Warm-up is over.</speak>
+            <text>Questa macchina è un cimelio di quel glorioso periodo.</text>
+            <speak chara="_mechanicalSound">Riscaldamento terminato.</speak>
             <speak chara="_mechanicalSound">Current simulation magnification, 0.2.</speak>
             <speak chara="_mechanicalSound">Starting operation.</speak>
             <text>The smell of oil, the sound of machinery and the movement of the girl's hips serve as a signal to know the air pressurization system has begun to adjust the gravity.</text>
