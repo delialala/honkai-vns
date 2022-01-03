@@ -18,6 +18,12 @@ To use the latest translation for  **Durandal**:
 3. Change Custom EN XML Source to https://raw.githubusercontent.com/delialala/honkai-vns/main/durandal/en/xml/
 4. Refresh
 
+Per la traduzione in italiano delle visual novel di Durandal:
+1. Vai su https://zklm.github.io/honkai-vn-durandal/
+2. Clicca l'icona dell'ingranaggio in alto a destra
+3. Cambia la Custom EN XML Source in https://raw.githubusercontent.com/xGerm/honkai-vns/main/durandal/it/xml/
+4. Aggiorna la pagina
+
 If you have any questions feel free to message delialala#8801 on discord.
 
 
